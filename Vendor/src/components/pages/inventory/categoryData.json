@@ -1,0 +1,222 @@
+[
+  {
+    "name": "Electronics and Gadgets",
+    "platformFee": 12,
+    "subcategories": [
+      "Smartphones",
+      "Laptops",
+      "Tablets",
+      "Cameras",
+      "DSLRs & Lenses",
+      "Headphones",
+      "Earbuds",
+      "Smartwatches",
+      "Gaming Consoles",
+      "Drone & UAV",
+      "Wearable Tech",
+      "Washing Machines",
+      "Refrigerators",
+      "Air Conditioners",
+      "Microwaves",
+      "Televisions",
+      "Home Theaters",
+      "Speakers",
+      "Soundbars",
+      "Bluetooth Speakers",
+      "Projectors",
+      "Printers & Scanners",
+      "Monitors",
+      "Routers & Networking Devices",
+      "Home Automation Devices",
+      "Power Banks",
+      "Cables & Chargers",
+      "GPS Device"
+    ]
+  },
+  {
+    "name": "Clothing and Accessories",
+    "platformFee": 10,
+    "subcategories": [
+      "Men's Clothing",
+      "Women's Clothing",
+      "Kid's Wear",
+      "Unisex Clothing",
+      "Footwear",
+      "Jewelry",
+      "Bags and Wallets",
+      "Watches",
+      "Sunglasses",
+      "Ethnic Wear",
+      "Sportswear",
+      "Handbags",
+      "Belts & Ties",
+      "Innerwear & Sleepwear",
+      "Scarves & Shawls",
+      "Caps & Hats"
+    ]
+  },
+  {
+    "name": "Groceries and Food Supplies",
+    "platformFee": 7,
+    "subcategories": [
+      "Fruits and Vegetables",
+      "Dairy Products",
+      "Snacks and Beverages",
+      "Spices and Condiments",
+      "Packaged Food",
+      "Personal Care Essentials",
+      "Baking Supplies",
+      "Organic Food",
+      "Frozen Foods",
+      "Pet Food",
+      "Cleaning Supplies",
+      "Meat & Seafood",
+      "Canned Goods"
+    ]
+  },
+  {
+    "name": "Furniture and Home Décor",
+    "platformFee": 10,
+    "subcategories": [
+      "Sofas and Chairs",
+      "Tables and Desks",
+      "Beds and Mattresses",
+      "Curtains and Rugs",
+      "Wall Art",
+      "Lighting and Lamps",
+      "Outdoor Furniture",
+      "Home Storage Solutions",
+      "Modular Furniture",
+      "Office Furniture",
+      "Shelves & Bookcases",
+      "Wardrobes",
+      "Kitchen Cabinets"
+    ]
+  },
+  {
+    "name": "Tools and Machinery",
+    "platformFee": 12,
+    "subcategories": [
+      "Power Tools",
+      "Hand Tools",
+      "Garden Equipment",
+      "Heavy Machinery",
+      "Workshop Accessories",
+      "Safety Equipment",
+      "Measuring Tools",
+      "Plumbing Tools",
+      "Electrical Tools",
+      "Welding Equipment",
+      "Industrial Power Generators",
+      "Air Compressors"
+    ]
+  },
+  {
+    "name": "Industrial Products",
+    "platformFee": 12,
+    "subcategories": [
+      "Construction Materials",
+      "Electrical Equipment",
+      "Mechanical Components",
+      "Adhesives and Sealants",
+      "Industrial Chemicals",
+      "Pipes and Fittings",
+      "Safety Gear",
+      "HVAC Systems",
+      "Industrial Tools",
+      "Packaging Supplies",
+      "Bearings",
+      "Fasteners"
+    ]
+  },
+  {
+    "name": "Books and Stationery",
+    "platformFee": 6,
+    "subcategories": [
+      "Fiction Books",
+      "Non-Fiction Books",
+      "Academic Books",
+      "Notebooks",
+      "Pens and Writing Instruments",
+      "Art Supplies",
+      "Diaries",
+      "Calendars",
+      "Children's Books",
+      "Graphic Novels",
+      "Stationery Sets",
+      "Markers & Highlighters"
+    ]
+  },
+  {
+    "name": "Health and Personal Care",
+    "platformFee": 8,
+    "subcategories": [
+      "Skincare",
+      "Haircare",
+      "Vitamins and Supplements",
+      "Fitness Equipment",
+      "Oral Care",
+      "Medical Supplies",
+      "Personal Hygiene",
+      "Health Monitors",
+      "Weight Management",
+      "First Aid Kits",
+      "Massage Equipment",
+      "Essential Oils"
+    ]
+  },
+  {
+    "name": "Automotive",
+    "platformFee": 15,
+    "subcategories": [
+      "Car Accessories",
+      "Motorcycle Parts",
+      "Engine Components",
+      "Car Care Products",
+      "Tires and Wheels",
+      "Electric Vehicle Accessories",
+      "Car Electronics",
+      "GPS Devices",
+      "Car Audio Systems",
+      "Safety and Security Systems",
+      "Lubricants & Oils",
+      "Helmets"
+    ]
+  },
+  {
+    "name": "Sports and Outdoor",
+    "platformFee": 11,
+    "subcategories": [
+      "Sports Apparel",
+      "Fitness Equipment",
+      "Outdoor Gear",
+      "Cycling",
+      "Team Sports Equipment",
+      "Camping and Hiking",
+      "Swimming Gear",
+      "Tennis Equipment",
+      "Yoga Accessories",
+      "Fishing Gear",
+      "Running Gear",
+      "Climbing Equipment"
+    ]
+  },
+  {
+    "name": "Art and Collectibles",
+    "platformFee": 15,
+    "subcategories": [
+      "Paintings",
+      "Sculptures",
+      "Antiques",
+      "Handicrafts",
+      "Rare Books",
+      "Photography Prints",
+      "Collectible Coins",
+      "Stamps",
+      "Memorabilia",
+      "Custom Art",
+      "Miniatures",
+      "Vintage Posters"
+    ]
+  }
+]

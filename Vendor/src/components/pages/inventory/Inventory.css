@@ -1,0 +1,37 @@
+.custom-grid {
+    display: grid;
+    grid-template-columns: repeat(12, minmax(0, 1fr));
+    gap: 1rem; /* Equivalent to Tailwind's gap-4 */
+    width: 100%;
+    max-height: 72%;
+  }
+  
+  .product-list,
+  .product-details {
+    grid-column: span 12;
+    grid-row: span 12;
+    background-color: var(--main-bg);
+    max-height: 100%;
+    border-radius: 0.375rem; /* Equivalent to Tailwind's rounded-md */
+  }
+  
+  /* Large screens (lg: 1024px) */
+  @media (min-width: 1024px) {
+    .product-list {
+      grid-column: span 5;
+    }
+    .product-details {
+      grid-column: span 7;
+    }
+  }
+  
+  /* 3XL screens (1920px) */
+  @media (min-width: 1920px) {
+    .product-list {
+      grid-column: span 6;
+    }
+    .product-details {
+      grid-column: span 6;
+    }
+  }
+  

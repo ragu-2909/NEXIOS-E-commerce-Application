@@ -1,0 +1,40 @@
+.welcomeText {
+  font-size: 1.35rem;
+}
+
+.companyNameText {
+  font-size: 1.025rem;
+}
+
+.companyDescText {
+  font-size: 0.65rem;
+ 
+}
+
+.finGrid {
+  margin-top: 6px;
+}
+
+@media (min-width: 1600px) {
+  .exploreBtn {
+    padding-top: 0.45rem;
+    padding-bottom: 0.45rem;
+  }
+
+  .welcomeText {
+    font-size: 1.875rem;
+  }
+
+  .companyNameText {
+    font-size: 1.5rem /* 24px */;
+    line-height: 1.25rem /* 32px */;
+    margin-bottom: 10px;
+  }
+
+  .companyDescText {
+    font-size: 0.85rem;
+  }
+  .finGrid {
+    margin-top: 30px;
+  }
+}

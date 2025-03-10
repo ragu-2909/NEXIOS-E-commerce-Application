@@ -1,0 +1,93 @@
+[
+    {
+      "id": 1,
+      "name": "Watch",
+      "price": "10000",
+      "stock": "16"
+    },
+    {
+      "id": 2,
+      "name": "TV",
+      "price": "20000",
+      "stock": "12"
+    },
+    {
+      "id": 3,
+      "name": "Smartphone",
+      "price": "5000",
+      "stock": "25"
+    },
+    {
+      "id": 4,
+      "name": "Laptop",
+      "price": "30000",
+      "stock": "8"
+    },
+    {
+      "id": 5,
+      "name": "Headphones",
+      "price": "1500",
+      "stock": "50"
+    },
+    {
+      "id": 6,
+      "name": "Camera",
+      "price": "25000",
+      "stock": "10"
+    },
+    {
+      "id": 7,
+      "name": "Smartwatch",
+      "price": "8000",
+      "stock": "18"
+    },
+    {
+      "id": 8,
+      "name": "Tablet",
+      "price": "12000",
+      "stock": "15"
+    },
+    {
+      "id": 9,
+      "name": "Air Conditioner",
+      "price": "35000",
+      "stock": "5"
+    },
+    {
+      "id": 10,
+      "name": "Microwave",
+      "price": "5000",
+      "stock": "22"
+    },
+    {
+      "id": 11,
+      "name": "Refrigerator",
+      "price": "20000",
+      "stock": "7"
+    },
+    {
+      "id": 12,
+      "name": "Washing Machine",
+      "price": "15000",
+      "stock": "9"
+    },
+    {
+      "id": 13,
+      "name": "Blender",
+      "price": "2000",
+      "stock": "30"
+    },
+    {
+      "id": 14,
+      "name": "Hair Dryer",
+      "price": "1000",
+      "stock": "40"
+    },
+    {
+      "id": 15,
+      "name": "Electric Kettle",
+      "price": "1500",
+      "stock": "35"
+    }
+  ]
+  
