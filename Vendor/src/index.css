@@ -1,0 +1,147 @@
+@import url('https://fonts.googleapis.com/css2?family=Bruno+Ace&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Bruno+Ace&family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&display=swap');
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+    *, *::before, *::after {
+      box-sizing: border-box;
+    }
+
+    :root {
+      /* --main-bg: #ffffff;
+      --second-bg: #fafafa;
+      --txt-color: #455560;
+      --txt-white: #fff;
+      --main-color: #349eff;
+      --second-color: #62b4ff;
+      --box-shadow: rgba(149,157,165,0.2) 0px 8px 24px; this was before */
+      
+      --main-bg: #111111;
+      --second-bg: #0f0e0e;
+      --third-bg: #232323;
+      --txt-color: #bbbbbb;
+      --txt-white: #fff;
+      --main-color: #fb0b12;
+      --second-color: #ff4a6b;
+      --box-shadow: rgba(0, 0, 0, 0.2) 0px 5px 10px;
+
+      --main-bg-light: #ffffff;
+      --second-bg-light: #f6f6fd;
+      --third-bg-light: #ececec;
+      --txt-color-light: #455560;
+      --box-shadow-light: rgba(149, 157, 165, 0.2) 0px 8px 24px;
+  
+      --main-bg-dark: #111111;
+      --second-bg-dark: #0f0e0e;
+      --third-bg-dark: #232323;
+      --txt-color-dark: #bbbbbb;
+      --box-shadow-dark: rgba(0, 0, 0, 0.2) 0px 5px 10px;
+
+      .gradient-bg-dark {
+        background: linear-gradient(to bottom right, #111827, #000000, #111827);
+      }
+      
+      /* Light gradient */
+      .gradient-bg-light {
+        background: linear-gradient(to bottom right,   #e0f7fa,  #ffffff,  #e0f7fa);
+      }
+
+      --main-color-blue: #349eff;
+      --second-color-blue: #62b4ff;
+  
+      --main-color-red: #fb0b12;
+      --second-color-red: #ff4a6b;
+  
+      --main-color-cyan: #10d4d2;
+      --second-color-cyan: #2ae9e6;
+  
+      --main-color-green: #019707;
+      --second-color-green: #4caf50;
+  
+      --main-color-orange: #d68102;
+      --second-color-orange: #fca11a;
+
+      --transition-cubic: cubic-bezier(0.175, 0.885, 0.32, 1.275);
+
+    }
+
+    a:hover {
+      color: var(--main-color);
+    }
+
+    button {
+      cursor: pointer;
+      border: 0;
+      outline: 0;
+      color: var(--txt-color);
+    }
+
+    ul {
+      list-style-type: none;
+    }
+
+    input {
+      border: 2px solid transparent;
+      outline: 0;
+    }
+
+    input:focus {
+      border: 2px solid var(--main-color)
+    }
+
+    .pageHeader {
+      text-transform: capitalize;
+      font-weight: bold;
+      font-size: 1.5rem;
+    }
+
+    .light-background {
+      background-color: var(--main-bg-light);
+      color: #000;
+  }
+  
+  .dark-background {
+      background-color: var(--main-bg-dark);
+      color: #fff;
+  }
+  
+  .blue-color {
+      background-color: var(--main-color-blue);
+      color: #fff;
+  }
+  
+  .red-color {
+      background-color: var(--main-color-red);
+      color: #fff;
+  }
+  
+  .cyan-color {
+      background-color: var(--main-color-cyan);
+      color: #fff;
+  }
+  
+  .green-color {
+      background-color: var(--main-color-green);
+      color: #fff;
+  }
+  
+  .orange-color {
+      background-color: var(--main-color-orange);
+      color: #fff;
+  }
+
+  .banner-bg-gradient {
+    background: linear-gradient(
+      to right,
+      rgba(10, 10, 10, 0.85) 29%, 
+      rgba(0, 0, 0, 0.7) 46%, 
+      rgba(3, 3, 3, 0.55) 63%, 
+      rgba(102, 102, 102, 0.4) 100%
+    );
+  }
+
+
+  }
+/* emerald-600/500 would use before as text color and buttton */
